@@ -187,10 +187,16 @@ body {
   max-width: 100%;
 }
 .post-container .tags {
-  font-size: 1em;
+  font-size: 1.6em;
 }
 .post-container .tags a {
-  display: block;
+  font-family: 'Crimson Text', serif;
+  font-size: 1em;
+  padding: 1px 10px;
+  border: 1px solid #ccc;
+  background: #fafafa;
+  margin: 0px 2px;
+  border-radius: 2px;
 }
 hr {
   border: none;
