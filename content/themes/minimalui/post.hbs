@@ -1,0 +1,12 @@
+{{!< layout}}
+{{#post}}
+	<article class="post-container">
+		<header>
+			<h1>{{title}}</h1>
+			<div class="post-info">
+				By <span class="author">{{author}}</span> on <span class="date">{{date format='dddd DD MMM YYYY'}}</span>
+			<div/>
+		</header>
+		{{content}}
+	</article>
+{{/post}}
