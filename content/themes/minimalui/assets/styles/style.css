@@ -29,7 +29,7 @@ body {
   font-size: 62.5%;
 }
 h1 {
-  font-size: 3.9em;
+  font-size: 3.5em;
   font-family: 'Open Sans', sans-serif;
 }
 h2 {
@@ -69,6 +69,7 @@ p {
 }
 ul {
   font-size: 2.2em;
+  font-family: 'Crimson Text', serif;
 }
 ul ul {
   font-size: 1em;
@@ -81,6 +82,7 @@ ul ul ul ul {
 }
 ol {
   font-size: 2.2em;
+  font-family: 'Crimson Text', serif;
 }
 ol ol {
   font-size: 1em;
@@ -93,6 +95,7 @@ ol ol ol ol {
 }
 figure {
   font-size: 1.8em;
+  font-family: 'Crimson Text', serif;
   color: #555;
   font-style: italic;
   text-align: center;
@@ -107,7 +110,6 @@ body {
   margin: 0px;
 }
 #topbar {
-  test: tes;
   position: absolute;
   top: 0;
   left: 0;
@@ -148,6 +150,7 @@ body {
   max-width: 700px;
   margin: 0 auto;
   padding-top: 70px;
+  padding-bottom: 60px;
   z-index: 0;
 }
 .post-lists {
